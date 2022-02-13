@@ -37,4 +37,4 @@ We have trained yolov5 model on this dataset. Training is perfomed on google col
 ![download](https://user-images.githubusercontent.com/71933031/153757124-c88d0465-3387-4798-98d8-5a39dad766c0.jpg)
 
 ## Working Demonstration
-https://user-images.githubusercontent.com/71933031/153757229-29c52398-70f5-4555-a933-35a7e449ae7c.mp4
+https://user-images.githubusercontent.com/71933031/153767469-3af0a3b4-c4ca-45b8-a8ae-93ab4b914ed7.mp4
